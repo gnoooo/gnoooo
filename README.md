@@ -22,7 +22,7 @@
 
 ---
 
-## Tech stack
+## `$ find / -iname "tools" -iname "langages"`
 
 <table align="center">
   <tr>
