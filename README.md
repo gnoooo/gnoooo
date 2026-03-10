@@ -88,8 +88,6 @@
 
 ---
 
-## GitHub stats
-
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gnoooo&show_icons=true&hide_border=true&bg_color=0d1117&title_color=F7AF2B&icon_color=F7AF2B&text_color=ffffff&ring_color=F7AF2B"/>
