@@ -1,0 +1,29 @@
+{
+  "name": "contribution-snake",
+  "version": "2.0.0",
+  "description": "Animated snake that eats GitHub contributions with light/dark theme support",
+  "main": "index.js",
+  "scripts": {
+    "test": "python run_snake_cli.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YOUR_USERNAME/contribution-snake.git"
+  },
+  "keywords": [
+    "github",
+    "contributions",
+    "snake",
+    "animation",
+    "profile",
+    "light-theme",
+    "dark-theme",
+    "dynamic-theme"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YOUR_USERNAME/contribution-snake/issues"
+  },
+  "homepage": "https://github.com/YOUR_USERNAME/contribution-snake#readme"
+}
