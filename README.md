@@ -90,9 +90,6 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gnoooo&show_icons=true&hide_border=true&bg_color=0d1117&title_color=F7AF2B&icon_color=F7AF2B&text_color=ffffff&ring_color=F7AF2B"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnoooo&layout=compact&hide_border=true&bg_color=0d1117&title_color=F7AF2B&text_color=ffffff"/>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=gnoooo&theme=catppuccin-mocha&border_radius=8&mode=weekly)](https://git.io/streak-stats)
 
 </div>
