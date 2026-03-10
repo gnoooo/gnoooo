@@ -20,9 +20,8 @@
 - Still using Windows sometimes
 ```
 
----
 
-## `$ find / -iname "tools" -iname "langages"`
+## `$ grep -rE "langages|tools" /`
 
 <table align="center">
   <tr>
