@@ -1,0 +1,8 @@
+{
+  "name": "@snk/svg-creator",
+  "version": "1.0.0",
+  "dependencies": {
+    "@snk/types": "1.0.0",
+    "@snk/solver": "1.0.0"
+  }
+}
