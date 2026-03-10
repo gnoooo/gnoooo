@@ -14,7 +14,7 @@
 
 ```diff
 + Linux enthusiast & power user
-+ Builder of random projects and sometimes useful projects
++ Builder of random and sometimes useful projects
 + Mostly coding for Linux, on Linux
 - Touching grass regularly
 - Still using Windows sometimes
