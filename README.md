@@ -99,4 +99,4 @@
 
 ---
 
-[gif](https://github.com/gnoooo/gnoooo/raw/output/github-contribution-grid-snake.gif)
+![gif](https://raw.githubusercontent.com/gnoooo/gnoooo/output/github-contribution-grid-snake.gif)
