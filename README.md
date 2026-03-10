@@ -2,9 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3000&pause=1000&color=F7AF2B&vCenter=true&width=435&lines=Gno.;I+try+different+things+and+projects.;Mostly+using+Linux%2C+for+Linux.;(I+use+arch+btw+%3C3))
 
-## My most accomplished project
-[![Typst IDE](https://github.com/gnoooo/typst-ide/raw/main/images/banner.png)](https://github.com/gnoooo/typst-ide)
-
 
 ### Coding
 - **System**\
