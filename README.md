@@ -14,7 +14,7 @@
 
 ```diff
 + Linux enthusiast & power user
-+ Builder of random projects and sometimes useful projects
++ Builder of random and sometimes useful projects
 + Mostly coding for Linux, on Linux
 - Touching grass regularly
 - Still using Windows sometimes
@@ -90,13 +90,22 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gnoooo&show_icons=true&hide_border=true&bg_color=0d1117&title_color=F7AF2B&icon_color=F7AF2B&text_color=ffffff&ring_color=F7AF2B"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnoooo&layout=compact&hide_border=true&bg_color=0d1117&title_color=F7AF2B&text_color=ffffff"/>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=gnoooo&theme=catppuccin-mocha&border_radius=8&mode=weekly)](https://git.io/streak-stats)
 
 </div>
 
 ---
-
-[gif](https://github.com/gnoooo/gnoooo/raw/output/github-contribution-grid-snake.gif)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/gnoooo/gnoooo/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/gnoooo/gnoooo/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/gnoooo/gnoooo/output/github-contribution-grid-snake.svg"
+  />
+</picture>
